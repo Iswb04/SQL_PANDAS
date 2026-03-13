@@ -5,3 +5,5 @@ git add .gitattributes
 git commit -m "commit name"
 git push
 '''
+
+"""pip install openpyxl se precisar"""
