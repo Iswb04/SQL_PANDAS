@@ -1,1 +1,7 @@
-*.ipynb linguist-generated=true
+"*.ipynb linguist-detectable=false"
+
+'''
+git add .gitattributes
+git commit -m "commit name"
+git push
+'''
